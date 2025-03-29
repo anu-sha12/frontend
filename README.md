@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job-Portal
 
 Front-end task using React.
@@ -70,3 +71,9 @@ This section has moved here: [Deployment](https://facebook.github.io/create-reac
 ### `npm run build` fails to minify
 
 This section has moved here: [Troubleshooting `npm run build` fails to minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# frontend
+Job portal
+>>>>>>> ffcd9bf01889e3d29da228f916e0c32a3bacb6cd
+git add README.md
+
